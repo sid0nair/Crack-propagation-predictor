@@ -45,7 +45,7 @@ The implemented U-Net network consists of the following:
 
 To run this project on Google Colab or locally, make sure that the following dependencies are installed:
 
-- Python 3.x
+- Python 3.11.12
 - [PyTorch](https://pytorch.org)
 - [torchvision](https://pytorch.org/vision/stable/index.html)
 - [OpenCV](https://opencv.org) (for image processing)
