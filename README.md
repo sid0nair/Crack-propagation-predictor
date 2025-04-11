@@ -13,10 +13,6 @@ This project implements a machine learning model to predict the final crack prop
   - [Running Locally](#running-locally)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Troubleshooting & Debugging](#troubleshooting--debugging)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
 ## Project Overview
 
 This project builds a deep learning solution to predict the crack propagation path in a glass plate. Starting with an initial configuration image, the network predicts the final configuration (i.e., the crack path) under a fixed tensile load. The main components include:
